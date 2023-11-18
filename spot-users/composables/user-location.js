@@ -1,0 +1,1 @@
+export const useCurrentParkingInPreview = () => useState('currentParkingInPreview', () => null)
